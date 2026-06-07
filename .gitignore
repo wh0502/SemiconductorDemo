@@ -1,0 +1,15 @@
+# VS 临时文件
+.vs/
+bin/
+obj/
+Debug/
+Release/
+x64/
+ipch/
+*.suo
+*.user
+*.userosscache
+*.sdf
+*.opensdf
+*.vcxproj.user
+*.log
